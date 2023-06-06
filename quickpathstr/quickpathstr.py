@@ -1,4 +1,4 @@
-# VERSION:  1.0.0
+# VERSION:  0.0.2
 # MODIFIED: 06/06/2023
 
 """
