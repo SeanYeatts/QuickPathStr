@@ -1,4 +1,3 @@
-"""
 Quickpath
 ========
 
@@ -11,4 +10,3 @@ their types, and their directories may be referred.
 API
 ---
 Filepath : A convenience container for standardized file nomenclature.
-"""
