@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "quickpathstr"
+version = "0.0.1"
+authors = [
+  { name="Sean Yeatts" },
+]
+description = "Provides syntax for working with strings in the context of file management."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"GitHub" = "https://github.com/SeanYeatts/quickpathstr.git"
