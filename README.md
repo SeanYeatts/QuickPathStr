@@ -7,7 +7,6 @@ management. It's designed to reinforce a universal nomenclature by which files,
 their types, and their directories may be referred.
 
 ## API Reference
-----------------
 The core of the API is captured within the ```Filepath``` class:
 
 ```python
